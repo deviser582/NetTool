@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InternetRequestTool</string>
+    <string name="sendRequest">发送请求</string>
+</resources>
